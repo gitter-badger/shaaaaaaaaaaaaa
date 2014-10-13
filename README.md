@@ -1,4 +1,5 @@
 ## SHAAAAAAAAAAAAA
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/konklone/shaaaaaaaaaaaaa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository contains the code for **[shaaaaaaaaaaaaa.com](https://shaaaaaaaaaaaaa.com)**, a tool to check whether your site's certificate is signed using **SHA-1** (common, bad) or **SHA-2** (rare, good).
 
